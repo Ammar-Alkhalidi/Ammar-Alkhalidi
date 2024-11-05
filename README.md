@@ -1,45 +1,51 @@
-Hey there! 👋 I'm [Ammar Alkhalidi]  
-🚀 Full-Stack Developer | 💡 Problem Solver | 🌐 Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=22F72E&center=true&vCenter=true&width=435&lines=Welcome+to+Ammar Alkhalidi+Profile)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </br>
+  <div align="center">
+    <h3>Languages and Tools that I am learning/have interest in:</h3>
+    </br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,tailwind,react,vite,mysql,git,bash,linux,docker,jest,gcp" />
+    </a>
+  </div>
+  </br>
+</section>
 
-Welcome to my digital workspace! I'm a full-stack developer with a passion for building powerful, engaging web applications and continuously evolving my skills. From creating pixel-perfect interfaces to architecting scalable backends, I love bringing ideas to life.
+<h2 align="center"> 🚀 Even more stats 🚀</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Alkhalidi&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Alkhalidi&theme=neon" />
+</p>
 
-🧰 My Tech Stack
+<div align="middle"><img src="https://komarev.com/ghpvc/?username=Ammar-Alkhalidi&color=blueviolet"></div>
 
-Frontend
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ammar-Alkhalidi&theme=onestar&no-frame=true&row=2&column=3" alt="Ammar-Alkhalidi Profile Trophies" />
+  </a>
+</div>
+</br>
 
-HTML5, CSS3, JavaScript (ES6+)
-Frameworks/Libraries: React.js, Vue.js, Angular
-UI Libraries: Bootstrap, Material-UI, Tailwind CSS
+<p align="center">
+<img src="https://profile-counter.glitch.me/Ammar-Alkhalidi/count.svg">  
+</p>
+<b><i>counting of visitors to this page in this section started from June 17, 2024</i></b>
+<a href="https://info.flagcounter.com/eRUa"><img src="https://s11.flagcounter.com/count2/eRUa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_200/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-Backend
-
-Languages: Node.js, Python, PHP, Java
-Frameworks: Express.js, Django, Flask, Laravel, Spring Boot
-RESTful and GraphQL API Development
-
-
-Database
-
-SQL: MySQL, PostgreSQL
-NoSQL: MongoDB, Firebase
-Tools & DevOps
-
-
-DevOps & Tools
-
-Git & GitHub, Docker, Jenkins, Travis CI
-CI/CD Pipelines, Unit & Integration Testing
-AWS, Heroku, DigitalOcean, Azure
-
-🌟 Fun Facts About Me
-👨‍🏫 Mentor and instructor at local coding bootcamps.
-📚 Avid learner—currently mastering new techs in AI and cloud computing.
-💬 Always happy to talk about programming, tech, or the latest sci-fi show!
-
-
-📫 How to Reach Me
-LinkedIn: Your LinkedIn Profile
-Twitter: Your Twitter Handle
-Email: YourEmail@example.com
-
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
