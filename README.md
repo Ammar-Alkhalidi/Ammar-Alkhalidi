@@ -31,13 +31,13 @@ Git & GitHub, Docker, Jenkins, Travis CI
 CI/CD Pipelines, Unit & Integration Testing
 AWS, Heroku, DigitalOcean, Azure
 
-:stern2: Fun Facts About Me
-:lehrer: Mentor and instructor at local coding bootcamps.
-:bücher: Avid learner—currently mastering new techs in AI and cloud computing.
-:sprechblase: Always happy to talk about programming, tech, or the latest sci-fi show!
+🌟 Fun Facts About Me
+👨‍🏫 Mentor and instructor at local coding bootcamps.
+📚 Avid learner—currently mastering new techs in AI and cloud computing.
+💬 Always happy to talk about programming, tech, or the latest sci-fi show!
 
-:briefkasten: How to Reach Me
 
+📫 How to Reach Me
 LinkedIn: Your LinkedIn Profile
 Twitter: Your Twitter Handle
 Email: YourEmail@example.com
