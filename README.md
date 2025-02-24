@@ -3,9 +3,7 @@
   </br>
   <div align="center">
     <h3>Languages and Tools that I am learning/have interest in:</h3>
-    
     </br>
-    git branch --merged | grep -v "\*" | xargs -n 1 git branch -d
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,tailwind,react,vite,mysql,git,bash,linux,docker,jest,gcp" />
     </a>
