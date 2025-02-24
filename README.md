@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=22F72E&center=true&vCenter=true&width=435&lines=Welcome+to+Ammar-Alkhalidi's+Profile)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </br>
-  <h2 align="center"> 💻 Tech Stack</h2>
+  <h2 align="center"> 💻 Tech Stack:</h2>
   <div align="center">
     </br>
     
