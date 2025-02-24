@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </br>
   <div align="center">
-    <h3>Languages and Tools that I am learning/have interest in:</h3>
+    # 💻 Tech Stack:
     </br>
     
 
